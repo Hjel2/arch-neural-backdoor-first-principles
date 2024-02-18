@@ -8,7 +8,7 @@ This repository links code repositories for a publication "Architectural Neural 
 
 The paper can be found on [arxiv](https://arxiv.org/abs/2402.06957)
 
-In case of questions, do not hestiate to reach out! To cite, pleas use:
+In case of questions, do not hestiate to reach out! To cite, please use:
 
 ```bibtex
 @misc{langford2024architectural,
